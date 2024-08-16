@@ -19,7 +19,7 @@ export const BodyContent = () => {
     <>
       <div className="flex flex-col items-center justify-center h-[calc(100%-80px)] gap-y-4">
         {routes.map(({ name, url }) => (
-          <Link href={url} className="h-16 flex items-center justify-center">
+          <Link href={url} key={name} className="h-16 flex items-center justify-center">
             {name}
           </Link>
         ))}

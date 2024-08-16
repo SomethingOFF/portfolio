@@ -26,12 +26,12 @@ const Testimonials = () => {
             </div>
             <div>
               <div className="line-clamp-3">
-                " Lorem ipsum dolor sit amet consectetur adipisicing elit. Non
-                hic commodi placeat obcaecati praesentium quas expedita
-                repellendus. Natus amet animi, commodi illo consequuntur ipsam
-                iste praesentium libero quo vel nisi, est possimus illum facere
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Non hic
+                commodi placeat obcaecati praesentium quas expedita repellendus.
+                Natus amet animi, commodi illo consequuntur ipsam iste
+                praesentium libero quo vel nisi, est possimus illum facere
                 inventore deleniti autem quod error cumque a perferendis
-                repellendus quas in? Dolor itaque aliquid minima amet? "
+                repellendus quas in? Dolor itaque aliquid minima amet?
               </div>
               <div>Name</div>
               <div>cto</div>
