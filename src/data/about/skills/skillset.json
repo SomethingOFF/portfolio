@@ -1,0 +1,18 @@
+[
+    {
+        "name": "UX",
+        "value": 90
+    },
+    {
+        "name": "Website Design",
+        "value": 80
+    },
+    {
+        "name": "App Design",
+        "value": 75
+    },
+    {
+        "name": "Graphic Design",
+        "value": 60
+    }
+]

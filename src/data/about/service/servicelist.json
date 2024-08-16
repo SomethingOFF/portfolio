@@ -1,0 +1,22 @@
+[
+    {
+        "url": "/uiux.svg",
+        "name": "UI/UX Design",
+        "description": "Lorem ipsum dolor sit amet consectetur. Morbi diam nisi nam diam interdum"
+    },
+    {
+        "url": "/web.svg",
+        "name": "Web Design",
+        "description": "Lorem ipsum dolor sit amet consectetur. Morbi diam nisi nam diam interdum"
+    },
+    {
+        "url": "/app.svg",
+        "name": "App Design",
+        "description": "Lorem ipsum dolor sit amet consectetur. Morbi diam nisi nam diam interdum"
+    },
+    {
+        "url": "/graphic.svg",
+        "name": "Graphic Design",
+        "description": "Lorem ipsum dolor sit amet consectetur. Morbi diam nisi nam diam interdum"
+    }
+]
